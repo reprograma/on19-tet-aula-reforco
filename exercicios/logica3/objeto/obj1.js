@@ -6,3 +6,16 @@ Ma
 Lili"
  */
 
+const pessoa = {
+    nome: "Mayhhara",
+    idade: 20,
+    altura: 1.58,
+    temCNH: true,
+    apelidos: ["May", "Ma", "Lili"]
+}
+
+console.log(`${pessoa.nome} tem ${pessoa.idade} anos, ${pessoa.altura} m de altura,
+${textoCNH} CNH e os seguintes apelidos: `)
+for (apelido of pessoa.apelidos) {
+    console.log(`-${apelido}`)
+}
