@@ -25,13 +25,13 @@ O que veremos na aula de hoje?
 1. Conteúdo disponível [aqui](https://github.com/reprograma/on19-tet-s1-git);
 
 ### Lógica - Variáveis, Operadores e Condicional
-1. Conteúdo disponível [aqui](https://github.com/reprograma/on19-tet-s2-js-logica-I);
+2. Conteúdo disponível [aqui](https://github.com/reprograma/on19-tet-s2-js-logica-I);
 
 ### Lógica Aplicada - Loop, Escopo e Função
-1. Conteúdo disponível [aqui](https://github.com/reprograma/on19-tet-s3-js-logica-II);
+3. Conteúdo disponível [aqui](https://github.com/reprograma/on19-tet-s3-js-logica-II);
 
 ### Lógica Aplicada - Objetos, Arrays e Métodos
-1. Conteúdo disponível [aqui](https://github.com/reprograma/on19-tet-s4-js-logica-II);
+4. Conteúdo disponível [aqui](https://github.com/reprograma/on19-tet-s4-js-logica-II);
 
 ### Links Úteis
 - [Funçoes](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Functions#function_scope)
